@@ -1,0 +1,8 @@
+st = iter([1,2,3,4,5,6])
+print(next(st))
+print(next(st))
+print(next(st))
+print(next(st))
+print(next(st))
+print(next(st))
+print(next(st))
